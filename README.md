@@ -1,5 +1,5 @@
 # auto-configuration-hello
-自定义的SpringBoot(strater)启动器
+自定义的SpringBoot(starter)启动器
 ## 创建启动器
 1.新建空工程  
 2.往空工程中创建module  
