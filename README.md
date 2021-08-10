@@ -11,5 +11,8 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.lei.hello.auto.HelloServiceAutoConfiguration
 ```
+## 打包
+* 先`mvn clean`和`mvn install` 自动配置包，然后再先`mvn clean`和`mvn install`启动包
+* 有修改的话只需要`mvn clean`和`mvn install` 自动配置包
 ## 使用启动器
 [测试使用自定义的SpringBoot(strater)启动器](https://github.com/yunlonglei/lei-hello-autoconfigure-test)
